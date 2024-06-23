@@ -10,12 +10,12 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "6238261861"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "vaxato.ae"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -35,26 +35,26 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "vaxato.ae.md"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "VAXATO-𝐕𝟑"
      },
      "AUTHER_NAME": {
-      "description": "Enter Auther Name Here",
-      "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "description": "VAXATO",
+      "required": true,
+      "value": "made by vaxato"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "6238261861"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
-      "required": false,
+      "required": true,
       "value": "true"
      },
     "MENU_DESIGN": {
@@ -64,7 +64,7 @@
      },
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
-      "required": false,
+      "required": true,
       "value": "true"
      },
      "AUTO_BLOCK": {
